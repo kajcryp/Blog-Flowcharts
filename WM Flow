@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" modified="2020-07-24T14:44:21.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="1YekUBpdzn0jKWDtHZzA" version="13.5.3" type="github">
+  <diagram id="2f404044-711c-603c-8f00-f6bb4c023d3c" name="Page-1">
+    <mxGraphModel dx="2591" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QS25DertQXvmk6rhUbj2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8XHSFWnbZJ1DE-YiNsan-62" target="8XHSFWnbZJ1DE-YiNsan-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-62" value="Data Query" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/data-128.png" parent="1" vertex="1">
+          <mxGeometry x="-820" y="259" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8XHSFWnbZJ1DE-YiNsan-65" target="8XHSFWnbZJ1DE-YiNsan-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-65" value="Country Targeting" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-584" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8XHSFWnbZJ1DE-YiNsan-67" target="8XHSFWnbZJ1DE-YiNsan-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-67" value="Value Targeting" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-382" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8XHSFWnbZJ1DE-YiNsan-68" target="8XHSFWnbZJ1DE-YiNsan-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-68" value="Segmentation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-162" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QS25DertQXvmk6rhUbj2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8XHSFWnbZJ1DE-YiNsan-71" target="QS25DertQXvmk6rhUbj2-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-71" value="Compliance Suppressions" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="78" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-63" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.play_start" parent="1" vertex="1">
+          <mxGeometry x="-1120" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8XHSFWnbZJ1DE-YiNsan-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-960" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-85" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=horizontal;endArrow=none;rounded=0;startArrow=open;strokeWidth=3;startSize=12;" parent="1" source="8XHSFWnbZJ1DE-YiNsan-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1020" y="310" as="targetPoint" />
+            <mxPoint x="-960" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8XHSFWnbZJ1DE-YiNsan-102" target="8XHSFWnbZJ1DE-YiNsan-105" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-632" y="554" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-102" value="JavaScript for Opt Out counts" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/file-names-25/512/1-128.png" parent="1" vertex="1">
+          <mxGeometry x="-870" y="505" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8XHSFWnbZJ1DE-YiNsan-105" target="8XHSFWnbZJ1DE-YiNsan-108" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-476" y="554" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-105" value="JavaScript for Country Counts" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/file-names-25/512/1-128.png" parent="1" vertex="1">
+          <mxGeometry x="-622" y="505" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8XHSFWnbZJ1DE-YiNsan-108" target="8XHSFWnbZJ1DE-YiNsan-111" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-108" value="Data Approval" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/handy-vol-1-2/128/handyArtboard_13-128.png" parent="1" vertex="1">
+          <mxGeometry x="-412" y="490" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8XHSFWnbZJ1DE-YiNsan-111" target="8XHSFWnbZJ1DE-YiNsan-116" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-111" value="Execution Approval" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/handy-vol-1-2/128/handyArtboard_13-128.png" parent="1" vertex="1">
+          <mxGeometry x="-182" y="490" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="4gRK0sS5Mk44YcZ_f5wx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8XHSFWnbZJ1DE-YiNsan-116" target="4gRK0sS5Mk44YcZ_f5wx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8XHSFWnbZJ1DE-YiNsan-116" value="Scheduler" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.scheduler;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="48" y="499" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QS25DertQXvmk6rhUbj2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QS25DertQXvmk6rhUbj2-2" target="8XHSFWnbZJ1DE-YiNsan-102" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-660" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="327" y="390" />
+              <mxPoint x="-1000" y="390" />
+              <mxPoint x="-1000" y="554" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QS25DertQXvmk6rhUbj2-2" value="Removing opt outs for Web Messages" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="283.6" y="266.40000000000003" width="87.2" height="87.2" as="geometry" />
+        </mxCell>
+        <mxCell id="4gRK0sS5Mk44YcZ_f5wx-1" value="Web Message" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/twitter-28/512/168_Twitter_Mail_Sms_Chat-128.png" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="128" height="128" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
