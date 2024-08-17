@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2049" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -25,87 +25,88 @@
         <mxCell id="cb6bSvUKwpR6El5IvKav-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-3" target="cb6bSvUKwpR6El5IvKav-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-3" value="Didn&#39;t accept the Free Bet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="cb6bSvUKwpR6El5IvKav-3" value="Didn&#39;t accept the Free Bet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="875" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="890" y="410" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="cb6bSvUKwpR6El5IvKav-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-7" target="cb6bSvUKwpR6El5IvKav-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-7" value="Customers who won on their Free Bet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cb6bSvUKwpR6El5IvKav-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-8" target="cb6bSvUKwpR6El5IvKav-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-8" value="Customers who didn&#39;t win their Free Bet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-11" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Analysis&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;Analysis will be done on the customers who didn&#39;t use the Free Bet:&lt;div&gt;&lt;br&gt;&lt;div&gt;- Which channel was used to send this offer? Email? SMS? Social?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- What was the value of these customers before they were long term lapsed?&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Did they bet on specific sports?&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Were they actually more active on the gaming products?&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Did this customer have a bet nearly being placed in their basket but forgot to finalise this action? Could a reminder comm be sent for this?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="720" width="230" height="370" as="geometry" />
+        <mxCell id="cb6bSvUKwpR6El5IvKav-11" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Analysis&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Analysis will be done on the customers who didn&#39;t use the Free Bet:&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Which channel was used to send this offer? Email? SMS? Social?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- What was the value of these customers before they were long term lapsed?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Did they bet on specific sports?&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Were they actually more active on the gaming products?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Did this customer have a bet nearly being placed in their basket but forgot to finalise this action? Could a reminder comm be sent for this?&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="547" y="720" width="280" height="370" as="geometry" />
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-14" target="cb6bSvUKwpR6El5IvKav-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1330" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-14" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Analysis:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;Now that a customer is activated again, we need to see how we can obtain value from them again as that customer now has a negative P/L to the business:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Analysis Needs to be done on what was successful from this customer reactivated:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Did this customer reactivate from Email? SMS?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- What were the successful CTR metrics from each comm?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Which Sport did he play on?&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- What were the odds on the bet placed?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- How much did the customer win from their bet?&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="340.5" width="300" height="340" as="geometry" />
+        <mxCell id="cb6bSvUKwpR6El5IvKav-14" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Analysis:&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Now that a customer is activated again, we need to see how we can obtain value from them again as that customer now has a negative P/L to the business:&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Analysis Needs to be done on what was successful from this customer reactivated:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;- Did this customer reactivate from Email? SMS?&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;- What were the successful CTR metrics from each comm?&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Which Sport did he play on?&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- What were the odds on the bet placed?&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- How much did the customer win from their bet?&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="330.25" width="340" height="359.5" as="geometry" />
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-15" value="&lt;div&gt;Lifecycle:&lt;/div&gt;Lifecycle Journey for customers to consolidate their position as active customers.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This Journey would exclude customers from daily BAU campaigns for a specific period until we&#39;re happy they are fully monetised players.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We&#39;d split this journey by metrics of HV/MV/LV based off previous betting history and potentially how much the person won.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1300" y="405" width="270" height="210" as="geometry" />
+        <mxCell id="cb6bSvUKwpR6El5IvKav-15" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Lifecycle:&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Lifecycle Journey for customers to consolidate their position as active customers.&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;This Journey would exclude customers from daily BAU campaigns for a specific period until we&#39;re happy they are fully monetised players.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;We&#39;d split this journey by metrics of HV/MV/LV based off previous betting history and potentially how much the person won.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="350" width="330" height="320" as="geometry" />
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-19" target="cb6bSvUKwpR6El5IvKav-103">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2595" y="350" as="targetPoint" />
+            <mxPoint x="2615" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-19" value="&lt;div&gt;This would be a script to bring through customers that have reactivated and won their FB.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We would co-ordinate with the data science team and look to potentially bring through a machine learning model that looks at the customer metrics such as:&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Money won on the FB used&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Betting history pre-long term lapsed&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Sports betting history&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Offers used when active:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Were they more Matched Bets? Power Tokens? Deposit Bonuses?&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1970" y="275.5" width="400" height="323" as="geometry" />
+        <mxCell id="cb6bSvUKwpR6El5IvKav-19" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;Data:&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;This would be a script to bring through customers that have reactivated and won their FB.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;We would co-ordinate with the data science team and look to potentially bring through a machine learning model that looks at the customer metrics such as:&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Money won on the FB used&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Betting history pre-long term lapsed&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Sports betting history&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Offers used when active:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Were they more Matched Bets? Power Tokens? Deposit Bonuses?&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1990" y="275.5" width="400" height="323" as="geometry" />
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1960" y="437" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="cb6bSvUKwpR6El5IvKav-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-20" target="cb6bSvUKwpR6El5IvKav-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-20" value="Redshift Connector" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/API_Management.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1820" y="404" width="78.57" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-103" target="cb6bSvUKwpR6El5IvKav-111">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2820" y="437" as="targetPoint" />
+            <mxPoint x="2840" y="437" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-103" value="Exclude customers based off whether they have taken offers in initial days" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2530" y="388.5" width="150" height="97" as="geometry" />
+        <mxCell id="cb6bSvUKwpR6El5IvKav-103" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Exclude customers based off whether they have taken offers in initial days&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2540" y="384.25" width="160" height="105.5" as="geometry" />
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-104" target="cb6bSvUKwpR6El5IvKav-114">
+        <mxCell id="cb6bSvUKwpR6El5IvKav-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-104" target="cb6bSvUKwpR6El5IvKav-114">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3300" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3030" y="620" />
+              <mxPoint x="1910" y="620" />
+              <mxPoint x="1910" y="943" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-104" value="Credit Customers with offer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cb6bSvUKwpR6El5IvKav-104" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Credit Customers with offer&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2950" y="350" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-107" target="cb6bSvUKwpR6El5IvKav-123">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3650" y="300.25" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="cb6bSvUKwpR6El5IvKav-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-107" target="cb6bSvUKwpR6El5IvKav-132">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-107" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.email;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3370" y="260" width="100" height="80.5" as="geometry" />
+          <mxGeometry x="2210" y="774" width="100" height="80.5" as="geometry" />
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-108" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.sms;fillColor=#86D466;gradientColor=#42B418" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3375.5" y="381.90000000000003" width="100" height="96.2" as="geometry" />
+          <mxGeometry x="2215.5" y="895.9" width="100" height="96.2" as="geometry" />
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-109" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3370" y="520" width="110" height="56" as="geometry" />
+          <mxGeometry x="2210" y="1034" width="110" height="56" as="geometry" />
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-110" value="Push&#xa;Notification&#xa;Service" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.push_notification_service;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="cb6bSvUKwpR6El5IvKav-109">
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
             <mxPoint x="5" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-111" value="Supressions&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Global Flag&lt;div&gt;- CAP&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2775" y="397" width="120" height="80" as="geometry" />
+        <mxCell id="cb6bSvUKwpR6El5IvKav-111" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;Supressions&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Global Flag&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- CAP&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2770" y="393.5" width="135" height="87" as="geometry" />
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-111" target="cb6bSvUKwpR6El5IvKav-104">
           <mxGeometry relative="1" as="geometry" />
@@ -116,34 +117,33 @@
         <mxCell id="cb6bSvUKwpR6El5IvKav-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-114" target="cb6bSvUKwpR6El5IvKav-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-114" value="Marketing Suppressions" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3150" y="390" width="120" height="80" as="geometry" />
+        <mxCell id="cb6bSvUKwpR6El5IvKav-114" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Marketing Suppressions&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1980" y="898.25" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-114" target="cb6bSvUKwpR6El5IvKav-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.719;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-8" target="cb6bSvUKwpR6El5IvKav-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-122" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.sms;fillColor=#86D466;gradientColor=#42B418" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3880" y="163.80000000000004" width="100" height="96.2" as="geometry" />
+          <mxGeometry x="2720" y="677.8" width="100" height="96.2" as="geometry" />
         </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-123" target="cb6bSvUKwpR6El5IvKav-122">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-123" target="cb6bSvUKwpR6El5IvKav-125">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cb6bSvUKwpR6El5IvKav-123" value="Marketing Suppressions" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3580" y="260" width="120" height="80" as="geometry" />
+        <mxCell id="cb6bSvUKwpR6El5IvKav-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.929;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-132" target="cb6bSvUKwpR6El5IvKav-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2540" y="814" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-125" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3880" y="350" width="110" height="56" as="geometry" />
+          <mxGeometry x="2720" y="864" width="110" height="56" as="geometry" />
         </mxCell>
         <mxCell id="cb6bSvUKwpR6El5IvKav-126" value="Push&#xa;Notification&#xa;Service" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.push_notification_service;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="cb6bSvUKwpR6El5IvKav-125">
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
             <mxPoint x="5" y="-16" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cb6bSvUKwpR6El5IvKav-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cb6bSvUKwpR6El5IvKav-132" target="cb6bSvUKwpR6El5IvKav-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cb6bSvUKwpR6El5IvKav-132" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Marketing Suppressions&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2390" y="769.25" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
